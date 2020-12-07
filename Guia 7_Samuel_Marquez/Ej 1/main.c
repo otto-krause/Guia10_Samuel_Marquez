@@ -21,7 +21,6 @@ int main(int argc, char *argv[]) {
 
 	}
 	printf("\n Los mejores alumnos son ");
-	printf("%s ",ca);
-/* No se porque al imprimir la variable "ca" se imprime un corazon al principio. Perdon por ese incomveniente xd . Dominick Saenz */	
+	printf("%s ",ca);	
 	return 0;
 }
